@@ -30,7 +30,7 @@ class MyDocument extends NextDocument {
             href="https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap"
             rel="stylesheet"
           />
-          <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+          <link rel="icon" href="/favicon.ico" type="image/x-icon" />
         </Head>
 
         <body>
